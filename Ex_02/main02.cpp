@@ -34,7 +34,7 @@ bool in_Number(string str)
 }
 int main() {
 
-	//p.160 2번 문제.
+	//p.160 2번 문제
 
 	double rad;
 	double vol;
